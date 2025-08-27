@@ -1,0 +1,15 @@
+Blocked Request: Guardrail InputGuardrail triggered tripwire
+Blocked Request: Guardrail InputGuardrail triggered tripwire
+Blocked Request: Guardrail InputGuardrail triggered tripwire
+Blocked: Guardrail InputGuardrail triggered tripwire
+Blocked: Guardrail InputGuardrail triggered tripwire
+Blocked: Guardrail InputGuardrail triggered tripwire
+Blocked: Attempted to change class timings.
+Blocked: Attempted to run below 26°C.
+Blocked by Father: Temperature below 26°C.
+Blocked by Father: Temperature below 26°C.
+Blocked at Gate: Student from another institute.
+Blocked: Attempted to change class timings.
+Blocked at Gate: Student from another institute.
+Blocked: Attempted to change class timings.
+Blocked at Gate: Student from another institute.
